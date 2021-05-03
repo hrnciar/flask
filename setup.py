@@ -8,6 +8,7 @@ setup(
         "Jinja2>=3.0.0rc1",
         "itsdangerous>=2.0.0rc2",
         "click>=7.1.2",
+        "setuptools",
     ],
     extras_require={
         "async": ["asgiref>=3.2"],
